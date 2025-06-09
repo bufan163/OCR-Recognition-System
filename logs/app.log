@@ -1,0 +1,31 @@
+2025-06-09 09:56:11 - ocr_service - INFO - ocr_service.py:79 - Tesseract OCR 初始化成功
+2025-06-09 09:56:35 - ocr_service - INFO - ocr_service.py:79 - Tesseract OCR 初始化成功
+2025-06-09 09:56:59 - ocr_service - INFO - ocr_service.py:79 - Tesseract OCR 初始化成功
+2025-06-09 09:56:59 - ocr_service - INFO - ocr_service.py:160 - 已初始化OCR引擎: ['tesseract']
+2025-06-09 09:57:01 - ocr_service - INFO - ocr_service.py:79 - Tesseract OCR 初始化成功
+2025-06-09 09:57:01 - ocr_service - INFO - ocr_service.py:160 - 已初始化OCR引擎: ['tesseract']
+2025-06-09 09:57:01 - ocr_service - INFO - ocr_service.py:79 - Tesseract OCR 初始化成功
+2025-06-09 09:57:01 - ocr_service - INFO - ocr_service.py:160 - 已初始化OCR引擎: ['tesseract']
+2025-06-09 09:57:01 - ocr_system - INFO - main.py:29 - 正在启动OCR识别系统...
+2025-06-09 09:57:02 - ocr_system - INFO - main.py:39 - OCR识别系统启动完成，监听端口: 8000
+2025-06-09 10:06:57 - ocr_system - INFO - main.py:44 - OCR识别系统正在关闭...
+2025-06-09 10:07:01 - ocr_service - INFO - ocr_service.py:79 - Tesseract OCR 初始化成功
+2025-06-09 10:07:01 - ocr_service - INFO - ocr_service.py:160 - 已初始化OCR引擎: ['tesseract']
+2025-06-09 10:07:01 - ocr_service - INFO - ocr_service.py:79 - Tesseract OCR 初始化成功
+2025-06-09 10:07:01 - ocr_service - INFO - ocr_service.py:160 - 已初始化OCR引擎: ['tesseract']
+2025-06-09 10:07:01 - ocr_system - INFO - main.py:29 - 正在启动OCR识别系统...
+2025-06-09 10:07:01 - ocr_system - INFO - main.py:39 - OCR识别系统启动完成，监听端口: 8000
+2025-06-09 10:15:29 - ocr_system - INFO - main.py:44 - OCR识别系统正在关闭...
+2025-06-09 10:15:31 - ocr_service - INFO - ocr_service.py:79 - Tesseract OCR 初始化成功
+2025-06-09 10:15:31 - ocr_service - INFO - ocr_service.py:160 - 已初始化OCR引擎: ['tesseract']
+2025-06-09 10:15:31 - ocr_service - INFO - ocr_service.py:79 - Tesseract OCR 初始化成功
+2025-06-09 10:15:31 - ocr_service - INFO - ocr_service.py:160 - 已初始化OCR引擎: ['tesseract']
+2025-06-09 10:15:31 - ocr_system - INFO - main.py:29 - 正在启动OCR识别系统...
+2025-06-09 10:15:31 - ocr_system - INFO - main.py:39 - OCR识别系统启动完成，监听端口: 8000
+2025-06-09 10:19:28 - ocr_system - INFO - main.py:44 - OCR识别系统正在关闭...
+2025-06-09 10:19:31 - ocr_service - INFO - ocr_service.py:79 - Tesseract OCR 初始化成功
+2025-06-09 10:19:31 - ocr_service - INFO - ocr_service.py:160 - 已初始化OCR引擎: ['tesseract']
+2025-06-09 10:19:31 - ocr_service - INFO - ocr_service.py:79 - Tesseract OCR 初始化成功
+2025-06-09 10:19:31 - ocr_service - INFO - ocr_service.py:160 - 已初始化OCR引擎: ['tesseract']
+2025-06-09 10:19:31 - ocr_system - INFO - main.py:29 - 正在启动OCR识别系统...
+2025-06-09 10:19:31 - ocr_system - INFO - main.py:39 - OCR识别系统启动完成，监听端口: 8000

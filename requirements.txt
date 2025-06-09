@@ -1,0 +1,88 @@
+# Web框架
+fastapi==0.104.1
+uvicorn[standard]==0.24.0
+starlette==0.27.0
+python-multipart==0.0.6
+
+# 数据库
+sqlalchemy==2.0.23
+psycopg2-binary>=2.9.0
+alembic==1.12.1
+
+# 认证和安全
+python-jose[cryptography]==3.3.0
+passlib[bcrypt]==1.7.4
+cryptography==41.0.7
+
+# OCR引擎 - 免费方案
+tesseract==0.1.3
+pytesseract==0.3.10
+paddlepaddle==3.0.0
+paddleocr==2.7.3
+easyocr==1.7.0
+
+# 图像处理
+opencv-python==4.8.1.78
+Pillow==10.1.0
+numpy==1.24.4
+scipy==1.11.4
+scikit-image==0.22.0
+imageio==2.31.6
+
+# PDF处理
+PyMuPDF==1.23.8
+PyPDF2==3.0.1
+pdf2image==1.16.3
+pdfplumber==0.10.3
+
+# 任务队列
+celery==5.3.4
+redis==5.0.1
+
+# 云服务SDK - 收费方案
+baidu-aip==4.16.13
+tencentcloud-sdk-python==3.0.1025
+alibabacloud-ocr20191230==3.0.2
+azure-cognitiveservices-vision-computervision==0.9.0
+
+# 数据处理
+pandas==2.1.3
+openpyxl==3.1.2
+
+# HTTP客户端
+requests==2.31.0
+httpx==0.25.2
+
+# 数据验证和配置
+pydantic==2.5.0
+pydantic-settings==2.1.0
+python-dotenv==1.0.0
+pyyaml==6.0.1
+toml==0.10.2
+
+# 日志和工具
+loguru==0.7.2
+click==8.1.7
+typer==0.9.0
+tqdm==4.66.1
+colorama==0.4.6
+tabulate==0.9.0
+psutil==5.9.6
+
+# 语言和文件处理
+langdetect==1.0.9
+python-magic==0.4.27
+pytz==2023.3
+python-dateutil==2.8.2
+
+# 开发和测试工具
+pytest==7.4.3
+pytest-asyncio==0.21.1
+pytest-cov==4.1.0
+black==23.11.0
+flake8==6.1.0
+isort==5.12.0
+mypy==1.7.1
+
+# 监控
+prometheus-client==0.19.0
